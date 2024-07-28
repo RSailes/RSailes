@@ -9,6 +9,7 @@
 ## Primary Languages
 <p align=center>
     <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+    <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
     <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
 
