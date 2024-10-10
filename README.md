@@ -3,7 +3,7 @@
 ## Roman :D
 ```
     > University student majoring in Computer Science
-    > Career Goals: Software Engineer/Developer or Game Developer
+    > Career Goals: Software Engineer or Game Developer
     > OS: Windows
 ```
 ## Primary Languages
